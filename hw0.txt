@@ -1,3 +1,17 @@
 # Description of your program (part 7)
 
+Before starting to examine the document, start a word count at 0. Move past any spaces until reaching a character, then increase the 
+word count by 1. Continue moving past characters until reaching another space without increasing the word count. If encountering the end of the document, stop the process. After 
+reaching another space, repeat the process while the end of the document has not been reached. 
+
 # Reflection on writing your program (part 8)
+
+The previous exercise was similar to a homework assignment in the CS class I've taken before (CS142), which gave me a starting point but also meant I had to be careful because 
+I couldn't assume I could copy everything from the Java program directly. Obviously it's easier to write a paragraph than a computer program, but writing this in english rather than
+code means I can't check for any issues in my logic. Also, I'm not sure how Python would accomplish my instructions or where I would be likely to run into errors.
+
+What I hope to get out of this class is some additional experience and confidence with coding.
+
+
+
+
